@@ -5,7 +5,7 @@ The purpose of this project is to develop a webpage for UFO sightings where user
 
 ## Results
 
-### Welcome Information.
+### Welcome Information
 As shown in the image below, our page provides the user with a general information of the data provided in the table. 
 <p align="left"> <img src="/Resources/Introductory_Page.PNG"></p>
 
